@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi👋, I'm Arikanto</h1>
+<h3 align="center">A Computer Science Student | Farmer </h3>
 
-<!--
-**arikantoAmbinintsoa/arikantoAmbinintsoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arikantoAmbinintsoa&label=Profile%20views&color=0e75b6&style=flat" alt="arikantoAmbinintsoa" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ElectronJS
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: [email](arikanto209@gmail.com)
+
+<h3>Resume:</h3>
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=arikantoAmbinintsoa&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="My trophies" />
+</p>
